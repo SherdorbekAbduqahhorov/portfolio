@@ -78,7 +78,7 @@ export default function Contact() {
           <p>I'm always open to discuss exciting projects 🚀</p>
 
           <div className="info-item">
-            <p><strong>Email:</strong>abduqahhorovsherdorbek770@gmail.com</p>
+            <p><strong>Instagram:</strong>sherdorbek_770_</p>
             <p><strong>Phone:</strong> +998 90 368 67 57</p>
             <p><strong>Location:</strong>Uzbekistan, Fergana</p>
           </div>

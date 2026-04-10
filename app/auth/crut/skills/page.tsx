@@ -94,8 +94,7 @@ function SkillsAdmin() {
 
       <div className="skill-admin-main">
 
-        {/* FORM */}
-        <form className="skill-form-box" onSubmit={handleSubmit}>
+      <form className="skill-form-box" onSubmit={handleSubmit}>
           <h2>Add Skill</h2>
 
           <input

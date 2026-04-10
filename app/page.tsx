@@ -1,19 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import About from '../components/About'
-import Projects from './auth/crut/projacts/page'
-import ProjectsComponent from '../components/ProjectsComponent'
-import SkillsComponent from '../components/SkillsComponent'
-import ContactComponent from '../components/ContactComponent'
-
+import Projectlar from '../components/Projectlar'
+import SkillsPart from '../components/SkillsPart'
+import ContactPart from '../components/ContactPart'
 export default function HomePage() {
   return (
     <div>
       <Navbar/>
       <About/>
-      <ProjectsComponent/>
-      <SkillsComponent/>
-      <ContactComponent/>
+      <Projectlar/>
+      <SkillsPart/>
+      <ContactPart/>
     </div>
   )
 }

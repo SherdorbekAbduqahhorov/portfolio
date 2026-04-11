@@ -76,7 +76,7 @@ export default function ContactSection() {
 
       <div className="contact-footer-badge">
         <FaCode />
-        <p>Built with passion • Full Stack Developer</p>
+        <p>Built with passion • Frontend Developer</p>
         <FaStar className="contact-footer-star" />
       </div>
     </section>

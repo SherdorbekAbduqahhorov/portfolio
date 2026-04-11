@@ -8,10 +8,26 @@ function About() {
       <p id='aboutmi'>ABOUT ME</p>
         <div className='aboutdiv2'>
             <div className='aboutdiv3'>
-              <h2>Creating Modern and Meaningful Web Experiences</h2>
-              <p>I’m a Front-End Developer passionate about building modern, responsive, and user-friendly web apps. My journey began with design and grew into curiosity about how websites work.</p>
-<p>I enjoy turning ideas into interactive experiences using creativity and modern web technologies to create clean, efficient, and engaging interfaces.</p>
-<p>When not coding, I focus on learning new tech, improving projects, and building faster, user-friendly websites. I value continuous learning and writing maintainable code.</p>
+              <h2>
+  Creating Modern and Meaningful Web Experiences | IELTS 
+  <span className='span234'>7</span>
+</h2>
+
+<p>
+  I’m a Front-End Developer with an IELTS score of 7, which has opened doors to global opportunities and strengthened my ability to communicate effectively in international environments.
+</p>
+
+<p>
+  I specialize in building modern, responsive, and user-friendly web applications. My journey began with a passion for design and evolved into a deep interest in how websites function and deliver real value to users.
+</p>
+
+<p>
+  I enjoy transforming ideas into interactive digital experiences using modern technologies. My focus is on creating clean, efficient, and visually engaging interfaces that provide a seamless user experience.
+</p>
+
+<p>
+  Beyond coding, I continuously work on improving my skills, exploring new technologies, and developing high-performance web solutions. I believe in writing maintainable code and growing as a developer in a global tech environment.
+</p>
               <div>
                 <h3>What Drives Me</h3>
                 <div className='divabout5'>

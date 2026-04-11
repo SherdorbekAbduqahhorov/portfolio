@@ -1,4 +1,5 @@
 "use client";
+import { SiKalilinux } from "react-icons/si";
 
 import {
   FaHtml5,
@@ -28,7 +29,7 @@ const skills = [
   { name: "Next.js", icon: <SiNextdotjs />, level: 90 },
   { name: "GitHub", icon: <FaGithub />, level: 100 },
   { name: "Git", icon: <FaGitAlt />, level: 80 },
-  { name: "Kali Linux", icon: <FaLinux />, level: 90 },
+  { name: "Kali Linux", icon: <SiKalilinux />, level: 90 },
 ];
 
 export default function SkillsPart() {
